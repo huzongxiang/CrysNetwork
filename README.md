@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/license-BSD--2--Clause-green)
+![](https://img.shields.io/badge/license-MIT-red)
 ![](https://img.shields.io/badge/build-passing-brightgreen)
 ![](https://img.shields.io/pypi/v/matdgl)
 ![](https://img.shields.io/pypi/dm/matdgl)
